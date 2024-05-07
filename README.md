@@ -1,2 +1,3 @@
 # SA_crime
- This is a Data exploration project which seens to investigate the occurance of offences within SA betwen the years of 2018 & 2019
+
+This data exploration project delves into the occurrence of offenses within South Australia between the years 2018 and 2019. Leveraging Python, the project aims to comprehensively investigate crime trends, providing valuable insights into the spatial and temporal distribution of offenses. By analysis this project sheds light on patterns and trends, facilitating a deeper understanding of crime dynamics in the region. Through visualizations and statistical analyses, users can explore and interpret the data, uncovering meaningful insights that contribute to informed decision-making and policy development.
